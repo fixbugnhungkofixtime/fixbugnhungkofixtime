@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fixbugnhungkofixtime
-- 👀 I’m interested in AI. I'm a noob at it
-- 🌱 I’m currently learning for a CS degree
+- 👀 I’m interested in Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
